@@ -66,7 +66,7 @@
 	</head>
 	<body>
 	<header id="banner" class="body">
-		<img src="devnet.png" />
+		<img src="logo.png" />
 		<h1>Insensitivity Office</h1>
 	</header>
 	<section>

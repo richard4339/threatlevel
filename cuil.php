@@ -18,7 +18,7 @@ foreach($results as $i)
 </style>
 </head>
 <body>
-<div><img src="devnet.png" /></div>
+<div><img src="logo.png" /></div>
 <h1>Cuil Level</h1>
 <?php foreach($results as $i)
 {
